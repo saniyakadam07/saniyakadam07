@@ -63,9 +63,9 @@ const saniya = {
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let’s Connect  
 
-[LinkedIn](https://www.linkedin.com/in/saniya-kadam-b55276287) | [LeetCode](https://leetcode.com/u/saniyakadam/) | [Portfolio](https://saniyakadam07.github.io/Portfolio/)
+[LinkedIn](https://www.linkedin.com/in/saniya-kadam-b55276287) | [Portfolio](https://saniyakadam07.github.io/Portfolio/) | [Email](mailto:saniya.ckadam@gmail.com)
 
 > *"Technology is best when it brings people together." – Matt Mullenweg*
 
