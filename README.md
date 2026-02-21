@@ -1,16 +1,3 @@
-Perfect — I’ll fix BOTH things for you:
-
-1. ✅ Add **Followers + Profile Views at the top**
-2. ✅ Fix the **GitHub stats not working issue**
-
-Your stats are not working because the URL has `\&` instead of `&`.
-In GitHub README, it must be **normal `&`**, not escaped.
-
----
-
-Here is your **corrected and upgraded README** 👇 (copy directly)
-
-````markdown
 ## Hi there 👋 I’m **Saniya Kadam**
 
 <p align="left">
@@ -87,26 +74,4 @@ const saniya = {
 
 Made with ❤️ and lots of ☕
 
-```
-
----
-
-### ✅ What I fixed:
-- Removed `\&` → replaced with proper `&`
-- Added `hide_border=true` for cleaner look
-- Added **profile views badge**
-- Added **followers badge**
-- Fixed typo: “Mobile Appss” → “Mobile Apps”
-
----
-
-If stats still don’t load:
-Sometimes GitHub stats takes 1–2 minutes to cache. Refresh after pushing.
-
-If you want, I can also:
-- Add a **contribution streak badge**
-- Add animated typing header
-- Make it look more “premium developer” style
-
-Just tell me 😌
 ```
