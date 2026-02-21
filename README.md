@@ -1,17 +1,17 @@
 ## Hi there 👋 I’m **Saniya Kadam**
 
-🎯 **Tech Enthusiast | Problem Solver | Web & AI Explorer**
+🎯 **AI & Computer Vision Enthusiast | Full-Stack Developer | Problem Solver**
 
 ---
 
 ```javascript
 const saniya = {
-  education: "B.E. Information Technology @ VESIT, Mumbai",
-  focus: "Web Development, Computer Vision & AI",
-  skills: ["HTML", "CSS", "Java", "JavaScript", "Python", "C", "C++", "PHP", "SQL", "DSA"],
-  interests: ["Artificial Intelligence", "Machine Learning", "Computer Vision", "Web Development"],
-  funFact: "Three-time inter-house chess champion ♟️",
-  motto: "Learning, building, and growing with every project 🚀"
+  education: "B.E. Information Technology @ VESIT (CGPI: 9.25)",
+  experience: "3 Internships | 4+ Major Projects",
+  focus: "Computer Vision, AI Systems & Scalable Web Applications",
+  skills: ["Java", "Python", "C/C++", "JavaScript", "React", "Node.js", "MongoDB", "OpenCV", "SQL"],
+  achievements: ["Top Hackathon Finalist", "Chess Champion ♟️", "School Ranker (SSC)"],
+  motto: "Building intelligent systems that create real-world impact 🚀"
 };
 ````
 
@@ -19,41 +19,52 @@ const saniya = {
 
 ## 🔭 Currently
 
-* Developing **Computer Vision systems** using **YOLO & OpenCV** for sports analytics
-* Working on **full-stack web projects** to enhance my development skills
-* Strengthening my **Data Structures & Algorithms** foundation
+* Developing scalable **AI-driven & full-stack applications**
+* Strengthening **Data Structures & Algorithms**
 
 ---
 
-## 👯 Collaboration
+## 💼 Experience
 
-* Open to projects in **Machine Learning, AI, Computer Vision, and Web Development**
+* **Snooker Analytics Intern** – Built real-time ball detection system (98% accuracy) using YOLO
+* **Data Analytics Intern** – Automated CRM workflows & built Power BI dashboards
+* **Junior Reporter (VESITConnect)** – Technical writing & publication design
 
 ---
 
-## ⚡ Fun Facts
+## 🚀 Featured Projects
 
-* Solved **200+ LeetCode problems** 💪
-* Earned **50 Days Consistency Badge** 🎖️
-* School Ranker in SSC & House Captain of Ananta House
-* Featured in college magazines for **report designing and article writing**
-* Small moves, steady **progress** ♟️
+* **GreenFork** – Food redistribution platform (React, Node.js, MongoDB)
+* **GEO-Optimizer** – AI visibility engine improving citation probability by 42%
+* **RouteOpt** – AI-powered smart carpooling with live geospatial tracking
+* **Expense Tracker** – Secure full-stack financial management app (JWT Auth)
+
+---
+
+## 🏆 Highlights
+
+* CGPI **9.25** (up to Sem V)
+* **2 Internships** completed
+* Top 10 – TechSprint Hackathon (GDG VESIT)
+* Top Teams – MumbaiHacks
+* Winner & MVP – Chess (Sphurthi VESIT) ♟️
+* Oracle & AWS Certified
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Programming Languages:** HTML | CSS | Java | JavaScript | Python | C | C++ | PHP | SQL
+**Programming:** Java | Python | C/C++ | SQL | JavaScript
 
-**Frontend / UI:** React | Figma | Power BI | Adobe InDesign
+**Frontend:** React | HTML | CSS | Tailwind | Figma
 
-**Backend / DB:** Node.js | MongoDB | MySQL | Firebase
+**Backend:** Node.js | Express | Django
 
-**Data / AI:** OpenCV | YOLO | Machine Learning | Data Annotation | Computer Vision
+**Database:** MongoDB | SQL | Firebase
 
-**DevOps / Tools:** Git | GitHub | Docker | AWS | Azure | GCP | VS Code | IntelliJ
+**AI / Data:** OpenCV | YOLO | NLP | Machine Learning | Power BI
 
-**Other Tech:** Basics of Generative AI | Raspberry Pi | Canva | WordPress
+**Cloud & Tools:** AWS | GCP | Azure | Docker | Git | GitHub
 
 ---
 
@@ -66,12 +77,13 @@ const saniya = {
 
 ## 📫 Let’s Connect
 
-[LinkedIn](https://www.linkedin.com/in/saniya-kadam-b55276287) | [Portfolio](https://saniyakadam07.github.io/Portfolio/) | [Email](mailto:saniya.ckadam@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/saniya-kadam-b55276287) |
+[Email](mailto:saniya.ckadam@gmail.com)
 
-> *"Technology is best when it brings people together." – Matt Mullenweg*
+> *“Building intelligent systems. One project at a time.”*
 
-⭐ Star my repos if you like my work!
+⭐ If you like my work, consider starring my repositories!
 
-Made with ❤️
+Made with ❤️ by Saniya
 
 ```
