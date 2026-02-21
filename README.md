@@ -6,28 +6,29 @@
 
 ```javascript
 const saniya = {
-  education: "B.E. Information Technology @ VESIT",
+  education: "B.E. Information Technology @ VESIT, Mumbai",
   focus: "Web Development, Computer Vision & AI",
-  skills: ["HTML", "CSS", "Java", "JavaScript", "Python", "C", "C++", "PHP", "DSA"],
-  interests: ["Artificial Intelligence", "Machine Learning", "Web Development", ""],
+  skills: ["HTML", "CSS", "Java", "JavaScript", "Python", "C", "C++", "PHP", "SQL", "DSA"],
+  interests: ["Artificial Intelligence", "Machine Learning", "Computer Vision", "Web Development"],
   funFact: "Three-time inter-house chess champion ♟️",
   motto: "Learning, building, and growing with every project 🚀"
 };
-```
+````
 
 ---
 
 ## 🔭 Currently
 
 * Developing **Computer Vision systems** using **YOLO & OpenCV** for sports analytics
-* Working on **web projects** to enhance my full-stack development skills
-  
+* Working on **full-stack web projects** to enhance my development skills
+* Strengthening my **Data Structures & Algorithms** foundation
+
 ---
 
 ## 👯 Collaboration
 
-* Open to projects in **Machine Learning, AI, and Web Development**
-  
+* Open to projects in **Machine Learning, AI, Computer Vision, and Web Development**
+
 ---
 
 ## ⚡ Fun Facts
@@ -42,7 +43,7 @@ const saniya = {
 
 ## 🛠️ Tech Stack
 
-**Programming Languages:** HTML | CSS | Java | JS | Python | C | C++ | PHP | SQL
+**Programming Languages:** HTML | CSS | Java | JavaScript | Python | C | C++ | PHP | SQL
 
 **Frontend / UI:** React | Figma | Power BI | Adobe InDesign
 
@@ -52,7 +53,7 @@ const saniya = {
 
 **DevOps / Tools:** Git | GitHub | Docker | AWS | Azure | GCP | VS Code | IntelliJ
 
-**Other Tech:** Basics of Gen AI | Raspberry Pi | Canva | WordPress
+**Other Tech:** Basics of Generative AI | Raspberry Pi | Canva | WordPress
 
 ---
 
@@ -63,7 +64,7 @@ const saniya = {
 
 ---
 
-## 📫 Let’s Connect  
+## 📫 Let’s Connect
 
 [LinkedIn](https://www.linkedin.com/in/saniya-kadam-b55276287) | [Portfolio](https://saniyakadam07.github.io/Portfolio/) | [Email](mailto:saniya.ckadam@gmail.com)
 
@@ -71,6 +72,6 @@ const saniya = {
 
 ⭐ Star my repos if you like my work!
 
-Made with ❤️ ️
+Made with ❤️
 
-
+```
