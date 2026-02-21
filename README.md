@@ -54,7 +54,7 @@ const saniya = {
 
 ## 📈 GitHub Stats
 
-![Saniya's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=saniyakadam07&show_icons=true&theme=radical&hide_border=true)
+![Saniya's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=saniyakadam07&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saniyakadam07&layout=compact&theme=radical&hide_border=true)
 
