@@ -85,9 +85,8 @@ const saniya = {
 
 ## 📫 Let’s Connect
 
-[GitHub](https://github.com/saniyakadam07) |
 [LinkedIn](https://www.linkedin.com/in/saniya-kadam-b55276287) |
-[Portfolio](#) |
+[Portfolio](https://saniyakadam07.github.io/Portfolio/) |
 [Email](mailto:saniya.ckadam@gmail.com)
 
 ---
